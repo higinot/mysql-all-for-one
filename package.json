@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "eslint-config-trybe-backend": "^1.0.4",
+    "gh": "^2.8.9",
     "mysql2": "^2.1.0",
     "sequelize": "^6.2.0"
   }

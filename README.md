@@ -54,4 +54,4 @@ Terminal do MYSQL no Docker
 ``mysql -u root -p``
 
 ### Contato
-Se tiver alguma dúvida ou consulta, entre em contato com Higino NEto por e-mail em engprodhigino@gmail.com.
+Se tiver alguma dúvida ou consulta, entre em contato com Higino Neto por e-mail em engprodhigino@gmail.com.
